@@ -1,7 +1,7 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_USER', 'rezki');
-define('DB_PASS', '1');
+define('DB_USER', 'your_user');
+define('DB_PASS', 'your_password');
 define('DB_NAME', 'school_db');
 
 try {

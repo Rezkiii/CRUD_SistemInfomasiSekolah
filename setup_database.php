@@ -1,8 +1,8 @@
 <?php
 // Database credentials
 $host = 'localhost';
-$user = 'rezki';
-$pass = '1';
+$user = 'your_user';
+$pass = 'your_password';
 
 require_once 'config/database.php';
 
